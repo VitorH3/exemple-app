@@ -6,3 +6,4 @@ use App\Http\Controllers\ProdutController;
 
 Route::apiResource('customers', CustomerController::class);
 Route::apiResource('products', ProdutController::class);
+
